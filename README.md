@@ -1,0 +1,2 @@
+# MySQLHomework7_Patika
+ 
